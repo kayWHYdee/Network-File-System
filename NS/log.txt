@@ -1,0 +1,982 @@
+Storage server registered:
+ ip=10.211.55.3
+ port_client_conn=3643
+ port_ns_conn=7655
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.211.55.3
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.140.103
+ port_client_conn=5679
+ port_ns_conn=5678
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.211.55.3
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.211.55.3
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+<<<<<<< Updated upstream
+=======
+Request: command=11, path=sujal.mp4
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=uday.mp3
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=uday.mp3
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=uday.mp3
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=video.mp4
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=4, path=uday.mp3
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=uday.mp3
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=uday.mp3
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=1, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9898
+ port_ns_conn=9090
+ server number=1
+ ------------------
+
+Request: command=11, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=11, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=1, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=7, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=1, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=1, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=14, path=kk.t
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=14, path=kk.t
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=14, path=kk.t command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=14, path=kk.t command=0, path=
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=14, path=kk.t command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=2, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9191
+ port_ns_conn=9090
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9092
+ port_ns_conn=9091
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9092
+ port_ns_conn=9091
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9092
+ port_ns_conn=9091
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9092
+ port_ns_conn=9091
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9092
+ port_ns_conn=9091
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9082
+ port_ns_conn=9081
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9082
+ port_ns_conn=9081
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Request: command=1, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Request: command=1, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Request: command=9, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Request: command=10, path=hi
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8032
+ port_ns_conn=8031
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=3
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=0
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Request: command=9, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=0
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=0
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=0
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8012
+ port_ns_conn=8011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8022
+ port_ns_conn=8021
+ server number=1
+ ------------------
+
+Request: command=9, path=kk.txt
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=8022
+ port_ns_conn=8021
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.1.100.28
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9092
+ port_ns_conn=9091
+ server number=0
+ ------------------
+
+>>>>>>> Stashed changes
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Request: command=9, path=file1
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Request: command=9, path=file1
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Request: command=9, path=file1
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9002
+ port_ns_conn=9001
+ server number=0
+ ------------------
+
+Request: command=9, path=a.b
+Response: error_code=0, command=0, ip=, port=0
+ ----------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9096
+ port_ns_conn=9095
+ server number=2
+ ------------------
+
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9012
+ port_ns_conn=9011
+ server number=0
+ ------------------
+
+
+Storage server registered:
+ ip=10.2.141.55
+ port_client_conn=9094
+ port_ns_conn=9093
+ server number=1
+ ------------------
+
